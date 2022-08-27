@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16" height="16" fill="#bebebe" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><path id="a" d="m2.5 5-2.5 3 2.5 3h0.5v-6z"/><path id="b" d="m2 7v2h12v-2z"/><use transform="rotate(90,8,8)" xlink:href="#b"/><use transform="rotate(90,8,8)" xlink:href="#a"/><use transform="rotate(-90,8,8)" xlink:href="#a"/><use transform="rotate(180,8,8)" xlink:href="#a"/></svg>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" fill="#bebebe" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><circle cx="17.5" cy="17.5" r="3.5" fill="#bebebe"/><circle cx="5.5" cy="17.5" r="3.5" fill="#bebebe" opacity=".3"/><path id="a" d="m5.5 12c-3.03 0-5.5 2.47-5.5 5.5s2.47 5.5 5.5 5.5 5.5-2.47 5.5-5.5-2.47-5.5-5.5-5.5zm0 1c2.5 0 4.5 2 4.5 4.5s-2 4.5-4.5 4.5-4.5-2-4.5-4.5 2-4.5 4.5-4.5z"/><use transform="translate(12)" xlink:href="#a"/><use transform="translate(6,-10)" xlink:href="#a"/></svg>

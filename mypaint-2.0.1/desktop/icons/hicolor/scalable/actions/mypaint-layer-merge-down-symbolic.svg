@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16" height="16" fill="#bebebe" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><path transform="translate(-121 -439)" d="m121 449 3-3h6l-3 3z"/><path d="m12 3v7h-2l3 4 3-4h-2v-7z"/><path id="a" transform="translate(0,3)" d="m3 0-3 3h6l3-3z"/><use transform="translate(0,4)" xlink:href="#a"/><use transform="translate(0,8)" xlink:href="#a"/></svg>
